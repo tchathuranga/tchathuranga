@@ -2,9 +2,7 @@
 
 <div align="center">
 
- ### `< Full-Stack Software Engineer />` · Colombo, Sri Lanka 🇱🇰
-
-> 🧠 *I don't just write code — I engineer solutions that scale, survive, and ship.*
+*I don't just write code — I engineer solutions that scale, survive, and ship.*
 
 I'm **Thisara Chathuranga**, a passionate Software Engineer who crafting everything from pixel-perfect frontends to battle-tested backend systems.
 
