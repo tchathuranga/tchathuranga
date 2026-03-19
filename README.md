@@ -1,11 +1,10 @@
 <div align="center">
-```
-`SOFTWARE ENGINEER`
-```
 
-# Thisara *Chathuranga*
+## Hi there 👋 I'm Thisara Chathuranga
 
 </div>
+
+I'm a passionate Software Engineer who crafting everything from pixel-perfect frontends to battle-tested backend systems.
 
 > I don't just write code — I engineer solutions that scale, survive, and ship.
 
