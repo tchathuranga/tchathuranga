@@ -6,6 +6,11 @@ I'm **Thisara Chathuranga**, a passionate Software Engineer who crafting everyth
 
 *I don't just write code — I engineer solutions that scale, survive, and ship.*
 
+### 💬 Let's Connect & Build Something Amazing
+
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tchathuranga.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 </div>
 
 ---
@@ -53,14 +58,5 @@ I'm **Thisara Chathuranga**, a passionate Software Engineer who crafting everyth
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Amazing
-
-[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tchathuranga.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 
