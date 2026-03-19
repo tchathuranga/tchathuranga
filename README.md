@@ -2,9 +2,9 @@
 
 <div align="center">
 
-*I don't just write code — I engineer solutions that scale, survive, and ship.*
-
 I'm **Thisara Chathuranga**, a passionate Software Engineer who crafting everything from pixel-perfect frontends to battle-tested backend systems.
+
+*I don't just write code — I engineer solutions that scale, survive, and ship.*
 
 </div>
 
