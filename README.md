@@ -2,15 +2,6 @@
 
 <div align="center">
 
-```
-████████╗██╗  ██╗██╗███████╗ █████╗ ██████╗  █████╗ 
-╚══██╔══╝██║  ██║██║██╔════╝██╔══██╗██╔══██╗██╔══██╗
-   ██║   ███████║██║███████╗███████║██████╔╝███████║
-   ██║   ██╔══██║██║╚════██║██╔══██║██╔══██╗██╔══██║
-   ██║   ██║  ██║██║███████║██║  ██║██║  ██║██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 ### `< Full-Stack Software Engineer />` · Colombo, Sri Lanka 🇱🇰
 
 [![Gmail](https://img.shields.io/badge/tchathuranga.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tchathuranga.dev@gmail.com)
