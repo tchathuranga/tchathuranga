@@ -8,6 +8,8 @@ I'm a passionate Software Engineer who crafting everything from pixel-perfect fr
 
 > I don't just write code — I engineer solutions that scale, survive, and ship.
 
+### 💬 Let's Connect & Build Something Amazing
+
 [![Gmail](https://img.shields.io/badge/tchathuranga.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchathuranga.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
