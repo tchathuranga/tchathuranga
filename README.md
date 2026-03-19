@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
+<div>
 
 I'm **Thisara Chathuranga**, a passionate Software Engineer who crafting everything from pixel-perfect frontends to battle-tested backend systems.
 
