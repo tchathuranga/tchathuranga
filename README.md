@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a passionate Software Engineer who crafting everything from pixel-perfect frontends to battle-tested backend systems.
+I'm a passionate Full-Stack Software Engineer who enjoys building scalable, reliable, and user-centric applications. From crafting pixel-perfect frontends to designing resilient backend architectures, I love turning complex ideas into simple, production-ready solutions. I care deeply about clean code, performance, and building software that delivers real value. I'm also continuously exploring emerging technologies, including AI, to create smarter and more efficient products.
 
 > I don't just write code — I engineer solutions that scale, survive, and ship.
 
@@ -14,23 +14,3 @@ I'm a passionate Software Engineer who crafting everything from pixel-perfect fr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
-
-## Tech Stack
-
-**Languages**
-`JavaScript` `TypeScript` `Java` `Perl`
-
-**Frameworks & Libraries**
-`React` `Next.js` `Spring Boot` `NestJS` `Node.js`
-
-**Databases**
-`MySQL` `MongoDB` `Oracle`
-
-**Testing & QA**
-`Selenium WebDriver` `Jest` `JUnit` `React Testing Library`
-
-**Cloud & Infrastructure**
-`AWS` `Linux`
-
-**DevOps & Monitoring**
-`Docker` `GitHub Actions` `Prometheus` `Grafana` `Apache Kafka`
